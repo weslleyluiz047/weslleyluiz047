@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Weslley Luiz dos Santos, sou natural de Joinville - SC e estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com desenvolvimento web e busco constantemente evoluir minhas habilidades técnicas através de projetos práticos e estudos contínuos.
+Olá! Eu me chamo Weslley Luiz dos Santos, sou natural de Joinville - SC e estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com desenvolvimento web e busco aprimorar constantemente minhas habilidades técnicas por meio de projetos práticos e estudos contínuos.
 
 Sou apaixonado por tecnologia e estou sempre em busca de soluções criativas e eficientes. Neste perfil do GitHub, compartilho meus projetos, ideias e aprendizados na área de desenvolvimento de software.
 
@@ -27,17 +27,19 @@ Sou apaixonado por tecnologia e estou sempre em busca de soluções criativas e 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
-<br/>
-<br/>
+<br/><br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -56,15 +58,28 @@ Sou apaixonado por tecnologia e estou sempre em busca de soluções criativas e 
   />
 </p>
 
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 ---
 
 ### 📬 Contato
 
-- 📧 E-mail: [weslleyluiz0898@gmail.com](mailto:weslleyluiz0898@gmail.com)  
-- 💼 Portfólio: [weslleyluiz047.github.io/meu-portf-lio](https://weslleyluiz047.github.io/meu-portf-lio/)  
-- 💼 LinkedIn: [linkedin.com/in/wlsantos047](https://www.linkedin.com/in/wlsantos047)
+<div align="left">
+
+<a href="mailto:weslleyluiz0898@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-weslleyluiz0898@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/wlsantos047/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-wlsantos047-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://weslleyluiz047.github.io/meu-portf-lio/" target="_blank">
+  <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-acesse-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e conectar-se comigo.
-
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e conectar-se comigo.
