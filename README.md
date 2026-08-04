@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Eu me chamo Weslley Luiz dos Santos, sou natural de Joinville - SC e estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com desenvolvimento web e busco aprimorar constantemente minhas habilidades técnicas por meio de projetos práticos e estudos contínuos.
+Olá, eu me chamo Weslley Luiz dos Santos, sou natural de Joinville - SC e estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com desenvolvimento web e busco aprimorar constantemente minhas habilidades técnicas por meio de projetos práticos e estudos contínuos.
 
 Sou apaixonado por tecnologia e estou sempre em busca de soluções criativas e eficientes. Neste perfil do GitHub, compartilho meus projetos, ideias e aprendizados na área de desenvolvimento de software.
 
