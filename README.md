@@ -34,7 +34,7 @@
   <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
-### ⚙️ Ferramentas
+### 🛠️ Ferramentas
 
 <p align="left">
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -42,23 +42,11 @@
   <img alt="Docker" title="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </p>
 
-### 🌱 Frameworks (em aprendizado)
+### 🌱 Em aprendizado
 
 <p align="left">
-  <img alt="Spring Boot" title="Spring Boot" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-</p>
----
-
-## 📊 Estatísticas
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=weslleyluiz047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyluiz047&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/weslleyluiz047/weslleyluiz047/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Angular" title="Angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img alt="Laravel" title="Laravel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 </p>
 
 ---
