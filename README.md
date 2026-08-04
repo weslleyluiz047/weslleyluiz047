@@ -1,85 +1,84 @@
-# 👨🏻‍💻 Weslley Luiz dos Santos
+# 👋 Olá, eu sou Weslley Luiz dos Santos
 
-**`Desenvolvedor FullStack`**
+**Desenvolvedor Full Stack**
 
-Olá, eu me chamo Weslley Luiz dos Santos, sou natural de Joinville - SC e estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com desenvolvimento web e busco aprimorar constantemente minhas habilidades técnicas por meio de projetos práticos e estudos contínuos.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Sou apaixonado por tecnologia e estou sempre em busca de soluções criativas e eficientes. Neste perfil do GitHub, compartilho meus projetos, ideias e aprendizados na área de desenvolvimento de software.
+🚀 Apaixonado por tecnologia e desenvolvimento de software, estou sempre buscando aprender novas tecnologias e construir projetos que contribuam para meu crescimento profissional.
+
+📍 Joinville - SC, Brasil.
+
+---
+
+## 🚀 Tecnologias
 
 <p align="left">
-    <a href="https://github.com/weslleyluiz047?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/weslleyluiz047?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/weslleyluiz047?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/weslleyluiz047?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 Estatísticas
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=weslleyluiz047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<br/><br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=weslleyluiz047&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyluiz047&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyluiz047&layout=compact&theme=tokyonight"/>
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=weslleyluiz047&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📬 Contato
+## 📈 Atividade
 
-<div align="left">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weslleyluiz047&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="left">
 
 <a href="mailto:weslleyluiz0898@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-weslleyluiz0898@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/wlsantos047/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-wlsantos047-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/wlsantos047/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://weslleyluiz047.github.io/meu-portf-lio/" target="_blank">
-  <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-acesse-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" />
+<a href="https://weslleyluiz047.github.io/meu-portf-lio/">
+<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e conectar-se comigo.
+## 🎯 Objetivos
+
+- 📚 Aprender novas tecnologias
+- 💼 Conseguir uma oportunidade como Desenvolvedor Full Stack
+- 🤝 Contribuir com projetos Open Source
+- 🚀 Evoluir continuamente como desenvolvedor
+
+---
+
+⭐ Obrigado por visitar meu perfil!
