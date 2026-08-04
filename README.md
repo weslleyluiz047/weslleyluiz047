@@ -34,6 +34,10 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyluiz047&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/weslleyluiz047/weslleyluiz047/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 ---
 
 ## 🔥 Sequência de Contribuições
